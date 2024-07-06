@@ -97,4 +97,3 @@ contract MyGovernorTest is Test {
         assert(box.retrieve() == valueToStore);
     }
 }
-1
